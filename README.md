@@ -29,5 +29,5 @@ Classic Models évolue dans un *marché de niche* où les préférences des coll
 - <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/Dashboard%20Image%202.png">Visuel 2</a>
 
 5. *Recommandations*
-- <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/Classic%20models%20Analysis.sql">Recommandations</a>
+- <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/recommandation.png">Recommandations</a>
 
