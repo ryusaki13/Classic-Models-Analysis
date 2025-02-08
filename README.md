@@ -25,7 +25,7 @@ Classic Models évolue dans un *marché de niche* où les préférences des coll
 - <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/Classic%20models%20Analysis.sql">Requêtes_SQL</a>
 4. *Dashboard Power BI* : Fichier .pbix et captures d'écran.
 - <a href ="">Fichier .pbix</a>
-- <a href ="">Visuel 1</a>
+- <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/Dashboard%20Image%201.png">Visuel 1</a>
 - <a href ="">Visuel 2</a>
 
 5. *Recommandations*
