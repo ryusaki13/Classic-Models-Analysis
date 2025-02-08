@@ -19,6 +19,7 @@ Classic Models évolue dans un *marché de niche* où les préférences des coll
   - Visualisation de la performance commerciale et analyse géographique des ventes.
 
 ## 📊 *KPIs et Insights stratégiques*
+
 ### Partie I : ANALYSE PRODUITS
 -	la valeur du stock pour chaque productline ?
 -	Quels sont les produits les moins démandés ?
