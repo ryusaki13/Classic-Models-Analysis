@@ -43,7 +43,7 @@ Classic Models évolue dans un *marché de niche* où les préférences des coll
 -	Quel est le taux de recouvrement ?
 
 ### Partie IV : ANALYSE EMPLOYES
--	Quels employé obtiennent les meilleurs résultats ?
+-	Quels employés obtiennent les meilleurs résultats ?
 -	Quelle est la performance des employés par pays ?
 -	Quels employés ont une charge de travail élevée (nombre de clients gérés) ?
 
