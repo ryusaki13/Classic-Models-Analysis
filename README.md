@@ -62,7 +62,8 @@ Classic Models évolue dans un *marché de niche* où les préférences des coll
 - <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/Dashboard%20Image%202.png">Visuel 2</a>
 
 5. *Recommandations*
-<img width="746" alt="recommandation" src="https://github.com/user-attachments/assets/a3121f68-e2fa-4adc-9e49-b39322a112ab" />
+<img width="763" alt="recommandation" src="https://github.com/user-attachments/assets/6fce471c-89d4-450b-b82b-d1530155eca7" />
+
 
 - <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/recommandation.png">Recommandations</a>
 
