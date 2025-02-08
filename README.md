@@ -1,7 +1,7 @@
 # 📊 *Projet de Conseil en Analyse de Données : Optimisation des Opérations de Classic Models*  
 
 ## 🔎 *À propos du projet*  
-En tant que *Data Analyst* à la direction marketing de *Classic Models*, un grossiste de référence dans les modèles réduits, vous réalisez une **analyse approfondie* des opérations de l’entreprise afin de *stimuler sa croissance stratégique et améliorer son efficacité opérationnelle*.
+En tant que *Data Analyst* à la direction marketing de *Classic Models*, un grossiste de référence dans les modèles réduits, vous réalisez une *analyse approfondie* des opérations de l’entreprise afin de *stimuler sa croissance stratégique et améliorer son efficacité opérationnelle*.
 
 Classic Models évolue dans un *marché de niche* où les préférences des collectionneurs, la pression concurrentielle et l'évolution des dynamiques de vente au détail influencent la performance commerciale. Ce projet vise à *optimiser le modèle économique* de l’entreprise et renforcer sa position sur le marché. 
 
