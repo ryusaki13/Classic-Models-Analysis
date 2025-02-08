@@ -20,8 +20,14 @@ Classic Models évolue dans un *marché de niche* où les préférences des coll
 
 ## *Structure du projet*  
 1. *Base de données* : Schéma relationnel de Classic Models.
-- <a href ="">
-3. *Requêtes SQL* : Scripts d'analyse des données ([dossier /sql](https://github.com/...)).  
-4. *Dashboard Power BI* : Fichier .pbix et captures d'écran ([dossier /dashboard](https://github.com/...)).  
-5. *Recommandations* : Synthèse des insights et plan d'action ([dossier /docs](https://github.com/...)).  
+- <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/Classic%20models%20Analysis.sql">SQL_DataBase</a>
+3. *Requêtes SQL* : Scripts d'analyse des données
+- <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/Classic%20models%20Analysis.sql">Requêtes_SQL</a>
+4. *Dashboard Power BI* : Fichier .pbix et captures d'écran.
+- <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/Classic%20models%20Analysis.sql">Fichier .pbix</a>
+- <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/Classic%20models%20Analysis.sql">Visuel 1</a>
+- <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/Classic%20models%20Analysis.sql">Visuel 2</a>
+
+5. *Recommandations*
+- <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/Classic%20models%20Analysis.sql">Recommandations</a>
 
