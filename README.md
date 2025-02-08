@@ -36,11 +36,11 @@ Classic Models évolue dans un *marché de niche* où les préférences des coll
 -	Quel est le taux de commandes annulées ? 
 
 ### Partie II : ANALYSE CLIENTS
--	Qui sont les clients inactifs
+-	Qui sont les clients inactifs ?
 -	Quels clients génèrent le plus de chiffre d'affaires et où sont-ils localisés ?
 -	Quels sont les  clients dont le chiffre d'affaire dépassent le seuil de 500.000 USD et où sont-ils localisés ?
 -	Quelle est la durée moyenne de paiement par client ?
--	Taux de recouvrement
+-	Quel est le taux de recouvrement ?
 
 ### Partie IV : ANALYSE EMPLOYES
 -	Quels employé obtiennent les meilleurs résultats ?
