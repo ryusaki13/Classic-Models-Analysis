@@ -18,7 +18,36 @@ Classic Models évolue dans un *marché de niche* où les préférences des coll
   - Création de rapports interactifs avec filtres dynamiques.  
   - Visualisation de la performance commerciale et analyse géographique des ventes.
 
-## *Structure du projet*  
+## 📊 *KPIs et Insights stratégiques*
+### Partie I : ANALYSE PRODUITS
+-	la valeur du stock pour chaque productline ?
+-	Quels sont les produits les moins démandés ?
+-	Quels est le taux d'écoulement du stock ?
+-	Quels est le taux de rotation du stock ?
+-	Quelle est la rentabilité par produit ?
+-	Quelle est la rentabilité par ligne de produit ?
+
+### Partie III : ANALYSE COMMANDES
+
+-	Quel est le délais moyen de traitement des commandes livrées ?
+-	Quelle est la répartition des commandes par type de produit ?
+-	Quelle sont les demandes(Commandes) mensuelles  ?
+-	Quelle sont les demandes(Commandes) anuelles ?
+-	Quel est le taux de commandes annulées ? 
+
+### Partie II : ANALYSE CLIENTS
+-	Qui sont les clients inactifs
+-	Quels clients génèrent le plus de chiffre d'affaires et où sont-ils localisés ?
+-	Quels sont les  clients dont le chiffre d'affaire dépassent le seuil de 500.000 USD et où sont-ils localisés ?
+-	Quelle est la durée moyenne de paiement par client ?
+-	Taux de recouvrement
+
+### Partie IV : ANALYSE EMPLOYES
+-	Quels employé obtiennent les meilleurs résultats ?
+-	Quelle est la performance des employés par pays ?
+-	Quels employés ont une charge de travail élevée (nombre de clients gérés) ?
+
+## *Ressources et livrables du projet*  
 1. *Base de données* : Schéma relationnel de Classic Models.
 - <a href ="https://github.com/ryusaki13/Classic-Models-Analysis/blob/main/Classic%20models%20tables.sql">SQL_DataBase</a>
 3. *Requêtes SQL* : Scripts d'analyse des données
