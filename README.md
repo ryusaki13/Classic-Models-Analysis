@@ -28,7 +28,7 @@ Classic Models évolue dans un *marché de niche* où les préférences des coll
 -	Quelle est la rentabilité par produit ?
 -	Quelle est la rentabilité par ligne de produit ?
 
-### Partie III : ANALYSE COMMANDES
+### Partie II : ANALYSE COMMANDES
 
 -	Quel est le délais moyen de traitement des commandes livrées ?
 -	Quelle est la répartition des commandes par type de produit ?
@@ -36,7 +36,7 @@ Classic Models évolue dans un *marché de niche* où les préférences des coll
 -	Quelle sont les demandes(Commandes) anuelles ?
 -	Quel est le taux de commandes annulées ? 
 
-### Partie II : ANALYSE CLIENTS
+### Partie III : ANALYSE CLIENTS
 -	Qui sont les clients inactifs ?
 -	Quels clients génèrent le plus de chiffre d'affaires et où sont-ils localisés ?
 -	Quels sont les  clients dont le chiffre d'affaire dépassent le seuil de 500.000 USD et où sont-ils localisés ?
