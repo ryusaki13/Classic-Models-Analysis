@@ -14,7 +14,8 @@ Classic Models évolue dans un *marché de niche* où les préférences des coll
 - *MySQL (Workbench)* :  
   - Extraction, nettoyage et agrégation des données.  
   - Calcul des KPIs.  
-- *Power BI* :  
+- *Power BI* :
+  - Connexion à MySQL
   - Création de rapports interactifs avec filtres dynamiques.  
   - Visualisation de la performance commerciale et analyse géographique des ventes.
 
