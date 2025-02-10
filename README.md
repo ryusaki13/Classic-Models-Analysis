@@ -18,7 +18,7 @@ Classic Models évolue dans un *marché de niche* où les préférences des coll
   - Création de rapports interactifs avec filtres dynamiques.  
   - Visualisation de la performance commerciale et analyse géographique des ventes.
 
-## 📊 *KPIs et Insights stratégiques*
+## 📈💎 *KPIs et Insights stratégiques*
 
 ### Partie I : ANALYSE PRODUITS
 -	la valeur du stock pour chaque productline ?
